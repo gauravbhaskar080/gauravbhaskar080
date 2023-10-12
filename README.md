@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://gauravb123.netlify.app/">
+  <a href="https://gauravb123.netlify.app/" target="_blank">
     <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="MasterHead">
   </a>
 </p>
