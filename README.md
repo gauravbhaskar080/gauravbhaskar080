@@ -1,3 +1,4 @@
+[![An image of @gauravbhaskar080's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravbhaskar080)](https://holopin.io/@gauravbhaskar080)
 <p align="center">
   <a href="https://gauravb123.netlify.app/" target="_blank">
     <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="MasterHead">
