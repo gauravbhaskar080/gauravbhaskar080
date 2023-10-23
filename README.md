@@ -1,10 +1,4 @@
 [![An image of @gauravbhaskar080's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravbhaskar080)](https://holopin.io/@gauravbhaskar080)
-<p align="center">
-  <a href="https://gauravb123.netlify.app/" target="_blank">
-    <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="MasterHead">
-  </a>
-</p>
-
 <h1 align="center">Hi 👋, I'm Gaurav Bhaskar</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
