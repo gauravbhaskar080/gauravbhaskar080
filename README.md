@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gauravbhaskar289@gmail.com**
 
-- 📄 Know about my experiences : [RESUME](https://drive.google.com/file/d/1rocTYl5LWzgUf9WxrjfdgbDSMBoB7S2p/view?usp=sharing)
+- 📄 Know about my experiences : [RESUME](https://drive.google.com/file/d/1sfRRG6g1wxs1F2dKzLgkPOXcPZ7xdfVD/view)
 
 - ⚡ Fun fact **Why do MERN stack developers prefer dark mode? Because light attracts bugs! 🐜💡**
 
