@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js , React Native**
 
-- 👨‍💻 All of my projects are available at [https://gauravb080.netlify.app/](https://gauravb080.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://gauravb-portfolio.vercel.app/](https://gauravb-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://blog-post-awhd.onrender.com/](https://blog-post-awhd.onrender.com/)
 
